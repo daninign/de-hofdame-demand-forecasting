@@ -1,0 +1,801 @@
+date,weekday,pax,location
+2-1-2025,donderdag,17,nassauzaal
+2-1-2026,vrijdag,35,nassauzaal
+3-1-2025,vrijdag,80,extern
+3-1-2026,zaterdag,49,nassauzaal
+4-1-2025,zaterdag,9,prinsessezaal
+4-1-2025,zaterdag,7,heer ivo zaal
+4-1-2025,zaterdag,29,hofdame
+4-1-2025,zaterdag,15,nassauzaal
+4-1-2026,zondag,450,extern
+5-1-2025,zondag,4,prinsessezaal
+7-1-2024,zondag,25,hofdame
+7-1-2024,zondag,10,heer ivo zaal
+7-1-2024,zondag,16,hofdame
+7-1-2025,dinsdag,18,nassauzaal
+7-1-2025,dinsdag,13,hofdame
+7-1-2025,dinsdag,8,prinsessezaal
+7-1-2025,dinsdag,25,extern
+7-1-2025,dinsdag,18,extern
+10-1-2024,woensdag,15,nassauzaal
+10-1-2024,woensdag,10,heer ivo zaal
+10-1-2025,vrijdag,25,extern
+11-1-2024,donderdag,4,prinsessezaal
+11-1-2025,zaterdag,21,nassauzaal
+11-1-2025,zaterdag,30,nassauzaal
+12-1-2024,vrijdag,130,hofdame
+1-2-2025,zaterdag,40,hofdame
+2-2-2025,zondag,180,hofdame
+2-2-2026,maandag,14,nassauzaal
+2-2-2026,maandag,13,heer ivo zaal
+2-2-2026,maandag,40,extern
+4-2-2025,dinsdag,10,heer ivo zaal
+4-2-2026,woensdag,15,extern
+5-2-2026,donderdag,70,binnentuin
+5-2-2026,donderdag,22,opkamer
+6-2-2025,donderdag,15,nassauzaal
+7-2-2024,woensdag,18,hofdame
+7-2-2024,woensdag,16,nassauzaal
+7-2-2025,vrijdag,14,hofdame
+7-2-2025,vrijdag,40,extern
+8-2-2024,donderdag,10,extern
+8-2-2025,zaterdag,8,hofdame
+9-2-2025,zondag,7,prinsessezaal
+9-2-2025,zondag,10,heer ivo zaal
+9-2-2025,zondag,16,nassauzaal
+9-2-2025,zondag,17,nassauzaal
+9-2-2025,zondag,7,heer ivo zaal
+9-2-2025,zondag,4,heer ivo zaal
+10-2-2025,maandag,25,nassauzaal
+10-2-2025,maandag,11,opkamer
+11-2-2025,dinsdag,15,nassauzaal
+12-2-2024,maandag,10,hofdame
+12-2-2025,woensdag,10,heer ivo zaal
+12-2-2025,woensdag,30,extern
+12-2-2025,woensdag,30,extern
+2-3-2025,zondag,68,extern
+2-3-2026,maandag,9,hofdame
+2-3-2026,maandag,7,heer ivo zaal
+2-3-2026,maandag,8,prinsessezaal
+3-3-2025,maandag,30,opkamer
+3-3-2026,dinsdag,15,nassauzaal
+3-3-2026,dinsdag,10,prinsessezaal
+4-3-2025,dinsdag,7,prinsessezaal
+4-3-2025,dinsdag,8,heer ivo zaal
+4-3-2025,dinsdag,14,nassauzaal
+4-3-2025,dinsdag,7,prinsessezaal
+4-3-2025,dinsdag,50,extern
+5-3-2025,woensdag,9,hofdame
+5-3-2026,donderdag,20,binnentuin
+6-3-2025,donderdag,11,nassauzaal
+6-3-2025,donderdag,10,prinsessezaal
+6-3-2025,donderdag,11,heer ivo zaal
+6-3-2025,donderdag,5,nassauzaal
+7-3-2024,donderdag,20,hofdame
+7-3-2025,vrijdag,16,hofdame
+7-3-2025,vrijdag,100,extern
+7-3-2025,vrijdag,4,prinsessezaal
+7-3-2025,vrijdag,13,nassauzaal
+7-3-2025,vrijdag,14,extern
+9-3-2024,zaterdag,11,nassauzaal
+9-3-2025,zondag,6,prinsessezaal
+10-3-2024,zondag,21,nassauzaal
+12-3-2024,dinsdag,8,prinsessezaal
+12-3-2024,dinsdag,13,nassauzaal
+12-3-2024,dinsdag,10,heer ivo zaal
+12-3-2024,dinsdag,9,prinsessezaal
+12-3-2024,dinsdag,8,extern
+12-3-2025,woensdag,16,nassauzaal
+12-3-2025,woensdag,2,prinsessezaal
+12-3-2025,woensdag,21,extern
+2-4-2025,woensdag,11,nassauzaal
+2-4-2025,woensdag,11,heer ivo zaal
+3-4-2025,donderdag,11,nassauzaal
+3-4-2025,donderdag,25,nassauzaal
+3-4-2025,donderdag,10,heer ivo zaal
+3-4-2025,donderdag,17,nassauzaal
+3-4-2025,donderdag,15,nassauzaal
+4-4-2025,vrijdag,15,nassauzaal
+6-4-2024,zaterdag,12,nassauzaal
+6-4-2024,zaterdag,12,nassauzaal
+6-4-2024,zaterdag,9,heer ivo zaal
+6-4-2025,zondag,10,extern
+7-4-2024,zondag,11,hofdame
+7-4-2024,zondag,19,hofdame
+7-4-2025,maandag,12,nassauzaal
+7-4-2024,zondag,20,binnentuin
+7-4-2024,zondag,4,nassauzaal
+7-4-2024,zondag,4,prinsessezaal
+7-4-2024,zondag,10,heer ivo zaal
+7-4-2025,maandag,15,hofdame
+7-4-2025,maandag,150,extern
+7-4-2025,maandag,9,opkamer
+9-4-2024,dinsdag,15,binnentuin
+9-4-2025,woensdag,50,extern
+9-4-2025,woensdag,7,prinsessezaal
+9-4-2025,woensdag,26,nassauzaal
+1-5-2025,donderdag,22,nassauzaal
+2-5-2025,vrijdag,60,extern
+6-5-2025,dinsdag,18,nassauzaal
+6-5-2025,dinsdag,18,nassauzaal
+6-5-2025,dinsdag,10,heer ivo zaal
+6-5-2025,dinsdag,43,binnentuin
+7-5-2024,dinsdag,54,binnentuin
+7-5-2024,dinsdag,20,hofdame
+7-5-2024,dinsdag,20,extern
+7-5-2025,woensdag,60,binnentuin
+7-5-2025,woensdag,14,nassauzaal
+7-5-2025,woensdag,30,extern
+9-5-2024,donderdag,64,binnentuin
+9-5-2024,donderdag,40,terras voor
+9-5-2025,vrijdag,60,nassauzaal
+11-5-2024,zaterdag,11,heer ivo zaal
+11-5-2025,zondag,25,nassauzaal
+11-5-2025,zondag,25,nassauzaal
+11-5-2025,zondag,9,prinsessezaal
+12-5-2024,zondag,13,heer ivo zaal
+12-5-2024,zondag,20,nassauzaal
+1-6-2025,zondag,2,prinsessezaal
+2-6-2025,maandag,9,heer ivo zaal
+2-6-2025,maandag,40,extern
+3-6-2025,dinsdag,30,nassauzaal
+3-6-2025,dinsdag,32,nassauzaal
+3-6-2025,dinsdag,5,heer ivo zaal
+4-6-2025,woensdag,20,opkamer
+5-6-2025,donderdag,11,nassauzaal
+5-6-2025,donderdag,10,heer ivo zaal
+5-6-2025,donderdag,12,heer ivo zaal
+6-6-2024,donderdag,6,prinsessezaal
+6-6-2025,vrijdag,163,binnentuin
+7-6-2024,vrijdag,60,binnentuin
+7-6-2024,vrijdag,65,nassauzaal
+7-6-2024,vrijdag,20,extern
+9-6-2024,zondag,30,hofdame
+10-6-2024,maandag,30,extern
+11-6-2024,dinsdag,7,heer ivo zaal
+11-6-2025,woensdag,12,nassauzaal
+11-6-2025,woensdag,35,nassauzaal
+11-6-2025,woensdag,10,prinsessezaal
+11-6-2025,woensdag,11,nassauzaal
+11-6-2025,woensdag,10,heer ivo zaal
+11-6-2025,woensdag,3,prinsessezaal
+12-6-2024,woensdag,23,nassauzaal
+1-7-2025,dinsdag,11,heer ivo zaal
+1-7-2025,dinsdag,2,prinsessezaal
+2-7-2025,woensdag,10,hofdame
+3-7-2025,donderdag,30,nassauzaal
+3-7-2025,donderdag,5,heer ivo zaal
+5-7-2025,zaterdag,12,heer ivo zaal
+6-7-2024,zaterdag,25,extern
+6-7-2025,zondag,28,hofdame
+9-7-2024,dinsdag,21,hofdame
+9-7-2025,woensdag,11,extern
+9-7-2025,woensdag,11,heer ivo zaal
+10-7-2025,donderdag,10,heer ivo zaal
+11-7-2025,vrijdag,7,prinsessezaal
+12-7-2024,vrijdag,21,nassauzaal
+12-7-2024,vrijdag,21,extern
+2-8-2025,zaterdag,80,extern
+2-8-2025,zaterdag,10,hofdame
+4-8-2025,maandag,25,nassauzaal
+4-8-2025,maandag,12,heer ivo zaal
+4-8-2025,maandag,20,nassauzaal
+4-8-2025,maandag,17,nassauzaal
+5-8-2025,dinsdag,70,hofdame
+5-8-2025,dinsdag,16,nassauzaal
+5-8-2025,dinsdag,40,extern
+7-8-2025,donderdag,15,nassauzaal
+8-8-2025,vrijdag,12,binnentuin
+9-8-2024,vrijdag,25,binnentuin
+9-8-2024,vrijdag,16,binnentuin
+9-8-2025,zaterdag,5,heer ivo zaal
+10-8-2025,zondag,170,binnentuin
+10-8-2025,zondag,13,hofdame
+11-8-2025,maandag,25,nassauzaal
+11-8-2025,maandag,90,extern
+11-8-2025,maandag,30,extern
+12-8-2024,maandag,15,hofdame
+2-9-2025,dinsdag,13,nassauzaal
+2-9-2025,dinsdag,35,hofdame
+2-9-2025,dinsdag,25,hofdame
+4-9-2025,donderdag,28,opkamer
+4-9-2025,donderdag,56,nassauzaal
+4-9-2025,donderdag,20,nassauzaal
+5-9-2025,vrijdag,46,binnentuin
+7-9-2024,zaterdag,11,nassauzaal
+7-9-2024,zaterdag,18,extern
+7-9-2025,zondag,110,binnentuin
+7-9-2025,zondag,23,hofdame
+7-9-2025,zondag,24,nassauzaal
+9-9-2024,maandag,12,heer ivo zaal
+9-9-2024,maandag,10,nassauzaal
+9-9-2024,maandag,9,prinsessezaal
+9-9-2025,dinsdag,9,heer ivo zaal
+10-9-2025,woensdag,70,nassauzaal
+10-9-2025,woensdag,12,heer ivo zaal
+10-9-2025,woensdag,81,opkamer
+10-9-2025,woensdag,15,nassauzaal
+12-9-2024,donderdag,8,hofdame
+12-9-2024,donderdag,10,heer ivo zaal
+12-9-2025,vrijdag,15,nassauzaal
+12-9-2025,vrijdag,15,nassauzaal
+12-9-2025,vrijdag,8,prinsessezaal
+2-10-2025,donderdag,20,nassauzaal
+2-10-2025,donderdag,22,extern
+2-10-2025,donderdag,25,hofdame
+2-10-2025,donderdag,5,prinsessezaal
+3-10-2025,vrijdag,15,nassauzaal
+4-10-2025,zaterdag,3,prinsessezaal
+4-10-2025,zaterdag,31,opkamer
+4-10-2025,zaterdag,14,nassauzaal
+5-10-2025,zondag,18,nassauzaal
+5-10-2025,zondag,60,extern
+5-10-2025,zondag,25,extern
+6-10-2024,zondag,8,prinsessezaal
+6-10-2025,maandag,25,nassauzaal
+6-10-2025,maandag,14,nassauzaal
+7-10-2024,maandag,60,extern
+7-10-2024,maandag,6,nassauzaal
+7-10-2024,maandag,8,prinsessezaal
+7-10-2025,dinsdag,5,prinsessezaal
+7-10-2025,dinsdag,36,hofdame
+9-10-2024,woensdag,20,binnentuin
+9-10-2025,donderdag,16,nassauzaal
+9-10-2025,donderdag,12,heer ivo zaal
+9-10-2025,donderdag,24,hofdame
+9-10-2025,donderdag,3,extern
+10-10-2024,donderdag,12,nassauzaal
+11-10-2025,zaterdag,16,extern
+12-10-2025,zondag,14,nassauzaal
+12-10-2025,zondag,11,hofdame
+12-10-2025,zondag,19,nassauzaal
+3-11-2025,maandag,16,nassauzaal
+3-11-2025,maandag,10,heer ivo zaal
+3-11-2025,maandag,12,prinsessezaal
+4-11-2025,dinsdag,82,binnentuin
+6-11-2024,woensdag,15,nassauzaal
+6-11-2024,woensdag,20,hofdame
+6-11-2025,donderdag,20,nassauzaal
+7-11-2024,donderdag,14,nassauzaal
+7-11-2024,donderdag,25,hofdame
+9-11-2024,zaterdag,23,nassauzaal
+9-11-2025,zondag,165,extern
+9-11-2025,zondag,200,extern
+9-11-2025,zondag,4,extern
+9-11-2025,zondag,3,extern
+9-11-2025,zondag,18,extern
+9-11-2025,zondag,25,extern
+9-11-2025,zondag,7,extern
+10-11-2025,maandag,72,binnentuin
+9-11-2025,zondag,7,extern
+10-11-2025,maandag,72,binnentuin
+11-11-2024,maandag,12,heer ivo zaal
+11-11-2025,dinsdag,22,nassauzaal
+11-11-2025,dinsdag,10,heer ivo zaal
+11-11-2025,dinsdag,5,prinsessezaal
+12-11-2024,dinsdag,30,nassauzaal
+12-11-2024,dinsdag,7,prinsessezaal
+12-11-2024,dinsdag,45,nassauzaal
+12-11-2024,dinsdag,10,heer ivo zaal
+12-11-2024,dinsdag,8,heer ivo zaal
+12-11-2025,woensdag,14,nassauzaal
+12-11-2025,woensdag,40,nassauzaal
+2-12-2025,dinsdag,15,nassauzaal
+2-12-2025,dinsdag,35,extern
+3-12-2025,woensdag,90,extern
+4-12-2025,donderdag,80,binnentuin
+4-12-2025,donderdag,6,prinsessezaal
+5-12-2025,vrijdag,30,nassauzaal
+5-12-2025,vrijdag,35,opkamer
+5-12-2025,vrijdag,20,nassauzaal
+6-12-2025,zaterdag,10,heer ivo zaal
+7-12-2024,zaterdag,25,binnentuin
+7-12-2024,zaterdag,51,nassauzaal
+9-12-2024,maandag,100,extern
+9-12-2025,dinsdag,19,hofdame
+9-12-2025,dinsdag,10,heer ivo zaal
+9-12-2025,dinsdag,36,extern
+10-12-2024,dinsdag,55,binnentuin
+10-12-2024,dinsdag,29,nassauzaal
+10-12-2025,woensdag,30,nassauzaal
+11-12-2024,woensdag,25,nassauzaal
+11-12-2024,woensdag,20,hofdame
+11-12-2024,woensdag,11,hofdame
+11-12-2025,donderdag,6,heer ivo zaal
+11-12-2025,donderdag,80,extern
+12-12-2024,donderdag,55,binnentuin
+12-12-2024,donderdag,22,binnentuin
+12-12-2024,donderdag,27,hofdame
+12-12-2024,donderdag,96,extern
+12-12-2024,donderdag,25,nassauzaal
+12-12-2025,vrijdag,12,hofdame
+12-12-2025,vrijdag,50,extern
+12-12-2025,vrijdag,8,hofdame
+13-2-2025,donderdag,11,heer ivo zaal
+13-2-2025,donderdag,8,prinsessezaal
+13-2-2025,donderdag,4,prinsessezaal
+13-2-2026,vrijdag,10,hofdame
+13-3-2025,donderdag,11,heer ivo zaal
+13-3-2025,donderdag,30,extern
+13-3-2026,vrijdag,3,prinsessezaal
+13-3-2026,vrijdag,80,nassauzaal
+13-4-2025,zondag,144,hofdame
+13-5-2025,dinsdag,25,nassauzaal
+13-6-2024,donderdag,70,hofdame
+13-6-2024,donderdag,11,hofdame
+13-6-2025,vrijdag,28,binnentuin
+13-7-2025,zondag,20,opkamer
+13-7-2025,zondag,26,hofdame
+13-9-2025,zaterdag,50,nassauzaal
+13-09-2025,zaterdag,18,opkamer
+13-9-2025,zaterdag,11,heer ivo zaal
+13-9-2025,zaterdag,30,hofdame
+13-10-2024,zondag,70,binnentuin
+13-10-2024,zondag,25,hofdame
+13-11-2024,woensdag,8,prinsessezaal
+13-11-2024,woensdag,13,nassauzaal
+13-11-2024,woensdag,7,prinsessezaal
+13-11-2024,woensdag,3,heer ivo zaal
+13-11-2024,woensdag,65,extern
+13-11-2025,donderdag,14,nassauzaal
+13-11-2025,donderdag,20,nassauzaal
+13-11-2025,donderdag,10,heer ivo zaal
+13-11-2025,donderdag,20,nassauzaal
+13-11-2025,donderdag,20,opkamer
+13-12-2024,vrijdag,16,nassauzaal
+13-12-2024,vrijdag,5,prinsessezaal
+13-12-2025,zaterdag,10,hofdame
+14-1-2025,dinsdag,15,nassauzaal
+14-1-2025,dinsdag,3,prinsessezaal
+14-3-2025,vrijdag,11,heer ivo zaal
+14-5-2025,woensdag,12,hofdame
+14-5-2025,woensdag,10,hofdame
+14-6-2024,vrijdag,61,binnentuin
+14-6-2024,vrijdag,40,extern
+14-7-2024,zondag,28,nassauzaal
+14-9-2024,zaterdag,30,hofdame
+14-9-2024,zaterdag,20,binnentuin
+14-10-2024,maandag,6,prinsessezaal
+14-10-2025,dinsdag,40,extern
+14-10-2025,dinsdag,5,prinsessezaal
+14-11-2024,donderdag,14,heer ivo zaal
+14-11-2024,donderdag,16,nassauzaal
+14-11-2024,donderdag,35,binnentuin
+14-11-2024,donderdag,25,nassauzaal
+14-11-2024,donderdag,12,hofdame
+14-11-2024,donderdag,7,heer ivo zaal
+14-11-2024,donderdag,3,prinsessezaal
+14-11-2025,vrijdag,6,hofdame
+15-1-2025,woensdag,5,heer ivo zaal
+15-1-2025,woensdag,20,nassauzaal
+15-1-2026,donderdag,10,heer ivo zaal
+15-1-2026,donderdag,31,nassauzaal
+15-3-2025,zaterdag,18,nassauzaal
+15-3-2026,zondag,20,opkamer
+15-04-2025,dinsdag,28,nassauzaal
+15-5-2025,donderdag,25,nassauzaal
+15-5-2025,donderdag,10,heer ivo zaal
+15-5-2025,donderdag,9,prinsessezaal
+15-5-2025,donderdag,20,nassauzaal
+15-6-2024,zaterdag,80,prinsessezaal
+15-9-2024,zondag,37,binnentuin
+15-9-2024,zondag,12,heer ivo zaal
+15-9-2025,maandag,48,binnentuin
+15-9-2025,maandag,15,hofdame
+15-9-2025,maandag,21,hofdame
+15-9-2025,maandag,50,extern
+15-10-2024,dinsdag,10,heer ivo zaal
+15-10-2024,dinsdag,10,heer ivo zaal
+15-10-2024,dinsdag,20,nassauzaal
+15-10-2025,woensdag,3,prinsessezaal
+15-11-2024,vrijdag,9,heer ivo zaal
+15-11-2024,vrijdag,23,heer ivo zaal
+15-11-2024,vrijdag,3,prinsessezaal
+15-11-2025,zaterdag,27,nassauzaal
+15-12-2024,zondag,13,hofdame
+15-12-2025,maandag,22,nassauzaal
+15-12-2025,maandag,100,extern
+15-12-2025,maandag,7,prinsessezaal
+16-1-2025,donderdag,70,extern
+16-1-2026,vrijdag,16,nassauzaal
+16-3-2026,maandag,40,nassauzaal
+16-3-2026,maandag,260,extern
+16-3-2026,maandag,15,heer ivo zaal
+16-4-2025,woensdag,59,nassauzaal
+16-4-2025,woensdag,30,extern
+16-5-2025,vrijdag,6,heer ivo zaal
+16-5-2025,vrijdag,60,extern
+16-5-2025,vrijdag,30,extern
+16-6-2025,maandag,18,nassauzaal
+16-7-2024,dinsdag,6,prinsessezaal
+16-7-2024,dinsdag,15,hofdame
+16-7-2024,dinsdag,100,extern
+16-7-2025,woensdag,2,prinsessezaal
+16-8-2025,zaterdag,70,binnentuin
+16-9-2024,maandag,75,binnentuin
+16-9-2024,maandag,20,nassauzaal
+16-9-2024,maandag,7,nassauzaal
+16-9-2025,dinsdag,6,hofdame
+16-10-2024,woensdag,40,extern
+16-10-2025,donderdag,12,heer ivo zaal
+16-10-2025,donderdag,12,hofdame
+16-10-2025,donderdag,20,nassauzaal
+16-10-2025,donderdag,66,nassauzaal
+16-11-2024,zaterdag,350,extern
+16-11-2024,zaterdag,10,hofdame
+16-12-2025,dinsdag,14,nassauzaal
+16-12-2025,dinsdag,10,heer ivo zaal
+17-1-2025,vrijdag,30,nassauzaal
+17-1-2025,vrijdag,45,extern
+17-1-2025,vrijdag,13,nassauzaal
+17-1-2025,vrijdag,14,hofdame
+17-2-2026,dinsdag,13,heer ivo zaal
+17-2-2026,dinsdag,8,heer ivo zaal
+17-3-2025,maandag,20,extern
+17-3-2026,dinsdag,30,nassauzaal
+17-3-2026,dinsdag,13,extern
+17-3-2026,dinsdag,10,heer ivo zaal
+17-4-2025,donderdag,13,nassauzaal
+17-4-2025,donderdag,60,extern
+17-5-2025,zaterdag,20,binnentuin
+17-6-2024,maandag,8,prinsessezaal
+17-6-2025,dinsdag,15,nassauzaal
+17-8-2025,zondag,15,extern
+17-9-2024,dinsdag,8,heer ivo zaal
+17-9-2024,dinsdag,7,prinsessezaal
+17-10-2024,donderdag,26,nassauzaal
+17-10-2024,donderdag,10,heer ivo zaal
+17-10-2024,donderdag,10,heer ivo zaal
+17-10-2025,vrijdag,22,hofdame
+17-10-2025,vrijdag,30,nassauzaal
+17-10-2025,vrijdag,16,opkamer
+17-12-2024,dinsdag,10,heer ivo zaal
+17-12-2024,dinsdag,20,nassauzaal
+17-12-2024,dinsdag,600,extern
+17-12-2024,dinsdag,4,prinsessezaal
+17-12-2025,woensdag,50,nassauzaal
+17-12-2025,woensdag,20,nassauzaal
+17-12-2025,woensdag,13,hofdame
+17-12-2025,woensdag,12,hofdame
+17-12-2025,woensdag,30,nassauzaal
+17-12-2025,woensdag,47,extern
+18-1-2025,zaterdag,70,extern
+18-1-2025,zaterdag,26,nassauzaal
+18-1-2025,zaterdag,26,nassauzaal
+18-1-2025,zaterdag,10,hofdame
+18-1-2026,zondag,20,extern
+18-2-2026,woensdag,60,extern
+18-2-2026,woensdag,15,extern
+18-3-2025,dinsdag,12,nassauzaal
+18-4-2025,vrijdag,20,extern
+18-6-2025,woensdag,18,hofdame
+18-6-2025,woensdag,18,nassauzaal
+18-6-2025,woensdag,4,prinsessezaal
+18-7-2024,donderdag,18,hofdame
+18-7-2024,donderdag,7,prinsessezaal
+18-7-2024,donderdag,32,binnentuin
+18-7-2025,vrijdag,35,extern
+18-7-2025,vrijdag,4,prinsessezaal
+18-9-2025,donderdag,10,heer ivo zaal
+18-10-2025,zaterdag,21,nassauzaal
+18-11-2024,maandag,8,heer ivo zaal
+18-11-2025,dinsdag,21,nassauzaal
+18-11-2025,dinsdag,12,heer ivo zaal
+18-11-2025,dinsdag,16,hofdame
+18-12-2024,woensdag,5,heer ivo zaal
+18-12-2025,donderdag,27,nassauzaal
+18-12-2025,donderdag,14,opkamer
+18-12-2025,donderdag,60,extern
+18-12-2025,donderdag,30,extern
+19-1-2025,zondag,45,extern
+19-2-2026,donderdag,14,nassauzaal
+19-3-2025,woensdag,50,hofdame
+19-3-2025,woensdag,50,nassauzaal
+19-3-2025,woensdag,12,heer ivo zaal
+19-3-2025,woensdag,13,hofdame
+19-3-2025,woensdag,3,prinsessezaal
+19-3-2026,donderdag,21,nassauzaal
+19-3-2026,donderdag,7,extern
+19-3-2026,donderdag,70,extern
+19-5-2025,maandag,10,heer ivo zaal
+19-6-2024,woensdag,9,heer ivo zaal
+19-6-2024,woensdag,35,binnentuin
+19-6-2025,donderdag,15,nassauzaal
+19-6-2025,donderdag,17,nassauzaal
+19-6-2025,donderdag,16,nassauzaal
+19-6-2025,donderdag,8,prinsessezaal
+19-8-2024,maandag,28,binnentuin
+19-8-2025,dinsdag,60,extern
+19-9-2024,donderdag,10,nassauzaal
+19-10-2024,zaterdag,20,hofdame
+19-10-2024,zaterdag,15,hofdame
+19-11-2024,dinsdag,14,nassauzaal
+19-11-2024,dinsdag,12,heer ivo zaal
+19-11-2024,dinsdag,9,prinsessezaal
+19-11-2025,woensdag,20,nassauzaal
+19-11-2025,woensdag,10,heer ivo zaal
+19-12-2024,donderdag,118,binnentuin
+19-12-2025,vrijdag,65,nassauzaal
+19-12-2025,vrijdag,19,nassauzaal
+19-12-2025,vrijdag,30,nassauzaal
+19-12-2025,vrijdag,75,extern
+20-1-2025,maandag,6,prinsessezaal
+20-1-2025,maandag,4,extern
+20-1-2026,dinsdag,20,nassauzaal
+20-2-2025,donderdag,4,heer ivo zaal
+20-2-2026,vrijdag,30,nassauzaal
+20-3-2025,donderdag,11,nassauzaal
+20-4-2025,zondag,11,hofdame
+20-5-2025,dinsdag,13,heer ivo zaal
+20-5-2025,dinsdag,44,nassauzaal
+20-6-2024,donderdag,17,nassauzaal
+20-6-2025,vrijdag,25,nassauzaal
+20-6-2025,vrijdag,4,prinsessezaal
+20-9-2024,vrijdag,2,prinsessezaal
+20-9-2025,zaterdag,25,extern
+20-11-2024,woensdag,8,prinsessezaal
+20-12-2024,vrijdag,14,hofdame
+21-1-2025,dinsdag,11,heer ivo zaal
+21-1-2025,dinsdag,19,nassauzaal
+21-1-2025,dinsdag,6,prinsessezaal
+21-1-2026,woensdag,13,nassauzaal
+21-3-2026,zaterdag,25,extern
+21-3-2026,zaterdag,35,hofdame
+21-5-2024,dinsdag,12,nassauzaal
+21-5-2024,dinsdag,8,heer ivo zaal
+21-5-2024,dinsdag,6,prinsessezaal
+21-5-2024,dinsdag,12,nassauzaal
+21-5-2025,woensdag,31,binnentuin
+21-5-2025,woensdag,8,prinsessezaal
+21-5-2025,woensdag,100,extern
+21-6-2024,vrijdag,50,binnentuin
+21-8-2025,donderdag,77,binnentuin
+21-10-2024,maandag,8,prinsessezaal
+21-11-2024,donderdag,9,heer ivo zaal
+21-11-2024,donderdag,10,heer ivo zaal
+21-11-2024,donderdag,4,prinsessezaal
+21-11-2024,donderdag,13,extern
+21-11-2024,donderdag,26,nassauzaal
+21-11-2025,vrijdag,100,binnentuin
+21-12-2024,zaterdag,16,hofdame
+22-1-2025,woensdag,19,nassauzaal
+22-1-2026,donderdag,14,heer ivo zaal
+22-1-2026,donderdag,23,nassauzaal
+22-1-2026,donderdag,30,extern
+22-1-2026,donderdag,9,prinsessezaal
+22-1-2026,donderdag,20,extern
+22-2-2025,zaterdag,7,hofdame
+22-4-2025,dinsdag,25,nassauzaal
+22-4-2025,dinsdag,17,nassauzaal
+22-5-2025,donderdag,60,binnentuin
+22-5-2025,donderdag,34,nassauzaal
+22-6-2024,zaterdag,50,binnentuin
+22-6-2024,zaterdag,50,extern
+22-6-2024,zaterdag,30,binnentuin
+22-9-2024,zondag,11,hofdame
+22-9-2025,maandag,5,extern
+22-10-2024,dinsdag,15,nassauzaal
+22-10-2024,dinsdag,8,prinsessezaal
+22-10-2024,dinsdag,11,nassauzaal
+22-10-2024,dinsdag,8,heer ivo zaal
+22-11-2024,vrijdag,10,heer ivo zaal
+22-11-2024,vrijdag,10,extern
+22-11-2024,vrijdag,60,extern
+22-11-2024,vrijdag,90,extern
+22-11-2025,zaterdag,75,extern
+22-11-2025,zaterdag,14,nassauzaal
+22-12-2025,maandag,30,opkamer
+23-1-2025,donderdag,19,nassauzaal
+23-1-2025,donderdag,9,heer ivo zaal
+23-1-2025,donderdag,50,extern
+23-1-2026,vrijdag,30,nassauzaal
+23-2-2025,zondag,13,hofdame
+23-3-2025,zondag,12,hofdame
+23-5-2024,donderdag,12,nassauzaal
+23-5-2024,donderdag,14,nassauzaal
+23-5-2024,donderdag,6,prinsessezaal
+23-5-2024,donderdag,20,nassauzaal
+23-5-2024,donderdag,14,hofdame
+23-5-2024,donderdag,45,nassauzaal
+23-6-2024,zondag,40,binnentuin
+23-6-2025,maandag,8,prinsessezaal
+23-6-2025,maandag,10,extern
+23-9-2024,maandag,12,heer ivo zaal
+23-9-2024,maandag,12,heer ivo zaal
+23-9-2024,maandag,10,prinsessezaal
+23-9-2025,dinsdag,10,heer ivo zaal
+23-10-2025,donderdag,20,hofdame
+23-11-2024,zaterdag,22,nassauzaal
+23-12-2024,maandag,6,prinsessezaal
+23-12-2025,dinsdag,60,extern
+24-1-2025,vrijdag,33,nassauzaal
+24-1-2025,vrijdag,50,extern
+24-1-2025,vrijdag,32,hofdame
+24-1-2026,zaterdag,60,extern
+24-2-2025,maandag,12,hofdame
+24-2-2025,maandag,14,hofdame
+24-2-2025,maandag,40,nassauzaal
+24-3-2025,maandag,15,opkamer
+24-3-2025,maandag,11,heer ivo zaal
+24-3-2026,dinsdag,75,extern
+24-3-2026,dinsdag,7,prinsessezaal
+24-4-2024,woensdag,25,hofdame
+24-4-2025,donderdag,15,nassauzaal
+24-6-2024,maandag,8,prinsessezaal
+24-6-2024,maandag,40,extern
+24-6-2025,dinsdag,12,hofdame
+24-6-2025,dinsdag,40,extern
+24-9-2024,dinsdag,16,nassauzaal
+24-10-2024,donderdag,125,extern
+24-10-2024,donderdag,14,nassauzaal
+24-10-2024,donderdag,4,extern
+24-10-2025,vrijdag,20,nassauzaal
+24-11-2025,maandag,12,heer ivo zaal
+24-12-2024,dinsdag,5,heer ivo zaal
+24-12-2024,dinsdag,22,nassauzaal
+24-12-2025,woensdag,7,extern
+25-1-2025,zaterdag,50,extern
+25-2-2025,dinsdag,12,hofdame
+25-2-2025,dinsdag,16,nassauzaal
+25-2-2025,dinsdag,9,prinsessezaal
+25-3-2025,dinsdag,12,heer ivo zaal
+25-4-2024,donderdag,16,binnentuin
+25-6-2024,dinsdag,25,binnentuin
+25-6-2024,dinsdag,25,nassauzaal
+25-6-2024,dinsdag,6,prinsessezaal
+25-6-2025,woensdag,30,extern
+25-9-2024,woensdag,15,extern
+25-9-2024,woensdag,6,extern
+25-9-2024,woensdag,6,hofdame
+25-9-2025,donderdag,15,nassauzaal
+25-9-2025,donderdag,15,nassauzaal
+25-9-2025,donderdag,19,hofdame
+25-9-2025,donderdag,13,nassauzaal
+25-9-2025,donderdag,13,nassauzaal
+25-10-2024,vrijdag,11,hofdame
+25-10-2024,vrijdag,150,extern
+25-10-2024,vrijdag,22,extern
+25-10-2024,vrijdag,7,hofdame
+25-10-2025,zaterdag,60,nassauzaal
+25-11-2024,maandag,18,hofdame
+25-11-2024,maandag,8,prinsessezaal
+25-11-2024,maandag,8,prinsessezaal
+25-11-2025,dinsdag,3,prinsessezaal
+25-11-2025,dinsdag,12,heer ivo zaal
+25-11-2025,dinsdag,13,nassauzaal
+25-11-2025,dinsdag,15,nassauzaal
+25-12-2025,donderdag,12,extern
+25-12-2025,donderdag,13,extern
+25-12-2025,donderdag,10,extern
+26-1-2026,maandag,5,prinsessezaal
+26-1-2026,maandag,20,nassauzaal
+26-2-2025,woensdag,4,prinsessezaal
+26-2-2026,donderdag,30,opkamer
+26-2-2026,donderdag,8,extern
+26-3-2025,woensdag,50,nassauzaal
+26-3-2026,donderdag,78,hofdame
+26-3-2026,donderdag,60,nassauzaal
+26-3-2026,donderdag,60,nassauzaal
+26-3-2026,donderdag,20,nassauzaal
+26-3-2026,donderdag,70,extern
+26-5-2025,maandag,5,hofdame
+26-6-2024,woensdag,12,hofdame
+26-6-2025,donderdag,15,nassauzaal
+26-6-2025,donderdag,25,binnentuin
+26-6-2025,donderdag,16,heer ivo zaal
+26-6-2025,donderdag,13,heer ivo zaal
+26-6-2025,donderdag,8,prinsessezaal
+26-7-2024,vrijdag,10,binnentuin
+26-9-2024,donderdag,16,nassauzaal
+26-9-2024,donderdag,15,extern
+26-9-2025,vrijdag,15,nassauzaal
+26-10-2024,zaterdag,50,extern
+26-10-2024,zaterdag,4,extern
+26-10-2025,zondag,25,nassauzaal
+26-11-2024,dinsdag,7,heer ivo zaal
+26-11-2024,dinsdag,10,heer ivo zaal
+26-11-2024,dinsdag,6,prinsessezaal
+26-11-2024,dinsdag,10,hofdame
+26-12-2024,donderdag,10,hofdame
+26-12-2024,donderdag,29,nassauzaal
+26-12-2024,donderdag,20,hofdame
+26-12-2025,vrijdag,10,extern
+26-12-2025,vrijdag,10,extern
+26-12-2025,vrijdag,11,extern
+26-12-2025,vrijdag,13,heer ivo zaal
+26-12-2025,vrijdag,16,hofdame
+26-12-2025,vrijdag,12,extern
+26-12-2025,vrijdag,12,extern
+27-1-2026,dinsdag,8,prinsessezaal
+27-2-2025,donderdag,28,nassauzaal
+27-2-2025,donderdag,10,heer ivo zaal
+27-2-2026,vrijdag,35,extern
+27-3-2025,donderdag,5,prinsessezaal
+27-5-2024,maandag,17,nassauzaal
+27-5-2025,dinsdag,16,nassauzaal
+27-5-2025,dinsdag,28,nassauzaal
+27-6-2024,donderdag,8,prinsessezaal
+27-6-2024,donderdag,12,binnentuin
+27-8-2025,woensdag,45,binnentuin
+27-10-2024,zondag,8,hofdame
+27-10-2025,maandag,16,nassauzaal
+27-10-2025,maandag,6,extern
+27-11-2024,woensdag,2,prinsessezaal
+27-11-2025,donderdag,15,nassauzaal
+27-11-2025,donderdag,14,heer ivo zaal
+27-11-2025,donderdag,20,nassauzaal
+27-11-2025,donderdag,14,nassauzaal
+27-11-2025,donderdag,50,nassauzaal
+27-11-2025,donderdag,15,extern
+28-1-2025,dinsdag,20,nassauzaal
+28-1-2025,dinsdag,4,hofdame
+28-1-2026,woensdag,150,binnentuin
+28-2-2025,vrijdag,60,extern
+28-2-2025,vrijdag,55,extern
+28-5-2024,dinsdag,14,nassauzaal
+28-5-2025,woensdag,26,opkamer
+28-5-2025,woensdag,18,nassauzaal
+28-8-2025,donderdag,50,extern
+28-9-2024,zaterdag,50,binnentuin
+28-9-2024,zaterdag,13,hofdame
+28-10-2025,dinsdag,20,nassauzaal
+28-10-2025,dinsdag,5,extern
+28-10-2025,dinsdag,8,extern
+28-11-2024,donderdag,15,nassauzaal
+28-11-2024,donderdag,25,hofdame
+28-11-2024,donderdag,2,prinsessezaal
+28-11-2024,donderdag,16,hofdame
+28-11-2024,donderdag,11,heer ivo zaal
+28-11-2024,donderdag,35,extern
+28-11-2024,donderdag,8,heer ivo zaal
+28-11-2024,donderdag,250,extern
+28-11-2024,donderdag,19,hofdame
+28-11-2025,vrijdag,5,extern
+28-12-2024,zaterdag,13,hofdame
+29-1-2025,woensdag,13,nassauzaal
+29-1-2025,woensdag,5,heer ivo zaal
+29-1-2025,woensdag,150,binnentuin
+29-1-2025,woensdag,5,prinsessezaal
+29-1-2025,woensdag,30,extern
+29-1-2026,donderdag,26,nassauzaal
+29-5-2024,woensdag,20,nassauzaal
+29-7-2024,maandag,4,prinsessezaal
+29-7-2025,dinsdag,9,hofdame
+29-9-2025,maandag,30,nassauzaal
+29-10-2025,woensdag,7,prinsessezaal
+29-10-2025,woensdag,5,extern
+29-10-2025,woensdag,5,extern
+29-10-2025,woensdag,5,extern
+29-11-2024,vrijdag,15,nassauzaal
+29-11-2024,vrijdag,65,extern
+29-11-2024,vrijdag,2,prinsessezaal
+29-11-2024,vrijdag,12,heer ivo zaal
+29-11-2025,zaterdag,50,extern
+29-12-2025,maandag,12,hofdame
+30-1-2025,donderdag,12,heer ivo zaal
+30-1-2025,donderdag,35,extern
+30-1-2026,vrijdag,50,nassauzaal
+30-3-2025,zondag,23,hofdame
+30-3-2025,zondag,23,nassauzaal
+30-4-2025,woensdag,9,prinsessezaal
+30-5-2024,donderdag,25,nassauzaal
+30-5-2024,donderdag,60,extern
+30-5-2025,vrijdag,80,extern
+30-6-2025,maandag,15,hofdame
+30-8-2024,vrijdag,70,binnentuin
+30-8-2024,vrijdag,45,hofdame
+30-8-2025,zaterdag,50,binnentuin
+30-9-2024,maandag,25,nassauzaal
+30-9-2025,dinsdag,14,opkamer
+30-9-2025,dinsdag,14,nassauzaal
+30-9-2025,dinsdag,10,heer ivo zaal
+30-9-2025,dinsdag,11,hofdame
+30-9-2025,dinsdag,30,extern
+30-10-2025,donderdag,15,nassauzaal
+30-10-2025,donderdag,6,heer ivo zaal
+30-10-2025,donderdag,66,nassauzaal
+30-10-2025,donderdag,10,extern
+31-1-2025,vrijdag,4,prinsessezaal
+31-8-2025,zondag,158,binnentuin
+31-10-2024,donderdag,8,prinsessezaal
+31-10-2025,vrijdag,7,hofdame
